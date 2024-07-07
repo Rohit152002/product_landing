@@ -25,7 +25,7 @@ const Content = () => {
           alt=""
         />
       </div>
-      <section className="w-full  flex items-center justify-center  mr-8">
+      <section className="w-full flex items-center justify-center  ">
         <Carousel
           withIndicators
           height={300}
